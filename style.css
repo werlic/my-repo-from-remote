@@ -1,0 +1,21 @@
+body {
+    background-color: aquamarine;
+    width: 100%;
+    margin: 30px;
+}
+
+#image-container {
+    max-width: 600px;
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 10pt;
+}
+
+#image {
+    width: 100%;
+    height: auto;
+}
+
+#image-name {
+    text-align: center;
+}
