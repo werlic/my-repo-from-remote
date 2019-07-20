@@ -19,6 +19,7 @@ body {
 
 #image-container {
     max-width: 600px;
+    margin: 80px auto;
     background-color: white;
     border: 1px solid gray;
     border-radius: 10pt;
